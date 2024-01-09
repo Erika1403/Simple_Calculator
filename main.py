@@ -4,7 +4,7 @@ import numpy
 window = tkinter.Tk()
 
 window.title("PyCalculator")
-window.minsize(width=400, height=500)
+window.maxsize(width=420, height=540)
 window.configure(background='white')
 acolor = '#d13732'
 norcolor = 'gray'
